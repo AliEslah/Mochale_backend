@@ -1,0 +1,13 @@
+/venv
+/Diagram
+*.idea
+*/__pycache__
+*/__pycache__/
+pycache/
+*/pycache/
+*.py[cod]
+main.py
+logs.txt
+database_config.sh
+/media/
+/media/*
